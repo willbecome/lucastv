@@ -1,72 +1,102 @@
 ﻿#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV#
-#EXTINF:-1 tvg-id="sctv_phim_tong_hop" group-title="🎭| SCTV" tvg-logo="https://i.imgur.com/cvWRcY0.png",SCTV Phim Tổng Hợp
-https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_w83587666_b2692000.m3u8
 
-#EXTINF:-1 tvg-id="sctv1" group-title="🎭| SCTV" tvg-logo="https://www.lofficiel.vn/wp-content/images/2016/03/18/maxresdefault-800x800.jpg",SCTV1| Hài
+#EXTINF:-1 tvg-id="sctv1" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/340?cb=20191009032102",SCTV1| Hài
 http://gg.gg/cocasctv1
 
-#EXTINF:-1 tvg-id="sctv2_hd" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Asia_Millennials_Channel_logo.png/revision/latest/scale-to-width-down/340?cb=20200604152030",SCTV2| AMC
+#EXTINF:-1 tvg-id="sctv2_hd" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/SCTV2_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201119114104&path-prefix=vi",SCTV2| AMC
 http://gg.gg/cocasctv2
 
-#EXTINF:-1 tvg-id="sctv3_see_tv" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/SEE_TV_SCTV3.png/revision/latest/scale-to-width-down/340?cb=20201010113238&path-prefix=vi",SCTV3| Thiếu Nhi
-http://gg.gg/cocasctv3
+#EXTINF:-1 tvg-id="sctv3_see_tv" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest/scale-to-width-down/340?cb=20201202045951&path-prefix=vi",SCTV3| Thiếu Nhi
+http://gg.gg/cocasctv3 
 
-#EXTINF:-1 tvg-id="sctv4" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/SCTV4_logo.png/revision/latest/scale-to-width-down/340?cb=20191009024650",SCTV4 | Giải Trí
+#EXTINF:-1 tvg-id="sctv4" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/SCTV4_HD.png/revision/latest/scale-to-width-down/340?cb=20201023121045&path-prefix=vi",SCTV4| Giải Trí
 http://gg.gg/cocasctv4
 
-#EXTINF:-1 tvg-id="sctv5" group-title="🎭| SCTV" tvg-logo="https://i.imgur.com/M46Ojrv.png",SCTV5| 🅢Sport 3
-http://gg.gg/cocabtv5
+#EXTINF:-1 tvg-id="sctv5" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/SCTV5_HD.png/revision/latest/scale-to-width-down/340?cb=20201022115208&path-prefix=vi",SCTV5| SCJ Shopping
+http://gg.gg/cocasctv5
 
-#EXTINF:-1 tvg-id="sctv6_hd" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/28/SNTV_logo_2017_fix.png/revision/latest/scale-to-width-down/340?cb=20201010115009&path-prefix=vi",SCTV6| Thế Hệ Mới
+#EXTINF:-1 tvg-id="sctv6_hd" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/SCTV6.png/revision/latest/scale-to-width-down/340?cb=20201202050044&path-prefix=vi",SCTV6| Thế Hệ Mới
 http://gg.gg/cocasctv6
 
-#EXTINF:-1 tvg-id="sctv7_hd" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/SHOW_TV_%28SCTV7%29_logo.png/revision/latest/scale-to-width-down/340?cb=20200928112843",SCTV7| Sân Khấu
+#EXTINF:-1 tvg-id="sctv7_hd" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/46/SCTV7_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201202040429&path-prefix=vi",SCTV7| Sân Khấu
 http://gg.gg/cocasctv7
 
-#EXTINF:-1 tvg-id="" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/VITV_LOGO_2009.png/revision/latest?cb=20200907111648&path-prefix=vi",SCTV8| Kinh Tế
-http://gg.gg/cocasctv8
+#EXTINF:-1 tvg-id="sctv8" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b5/SCTV8_HD.png/revision/latest/scale-to-width-down/340?cb=20201022115013&path-prefix=vi",SCTV8| Kinh Tế
+http://gg.gg/cocasctv8 
 
-#EXTINF:-1 tvg-id="sctv9" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/SCTV9_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201110020407",SCTV9| Phim TVB
+#EXTINF:-1 tvg-id="sctv9" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/SCTV9_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201110020407",SCTV9| Phim Châu Á
 http://gg.gg/cocasctv9 
 
-#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/TV_STAR_SCTV11_LOGO.png/revision/latest/scale-to-width-down/340?cb=20201010114236&path-prefix=vi",SCTV 11| Văn Hóa Nghệ Thuật
+#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/SCTV11_logo_2017-present.png/revision/latest/scale-to-width-down/340?cb=20201018090143&path-prefix=vi",SCTV11| Văn Hóa Nghệ Thuật
 http://gg.gg/cocasctv11
 
-#EXTINF:-1 tvg-id="sctv12" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/SCTV_HD_DL.png/revision/latest?cb=20201013040843&path-prefix=vi",SCTV12| Du Lịch & Khám Phá
+#EXTINF:-1 tvg-id="sctv12" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ab/SCTV12_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201127035429&path-prefix=vi",SCTV12| Du Lịch & Khám Phá
 http://gg.gg/cocasctv12
 
-#EXTINF:-1 tvg-id="sctv13_hd_tvf" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/Lady_TV_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201011111431&path-prefix=vi",SCTV13| Phụ Nữ
+#EXTINF:-1 tvg-id="sctv13_hd_tvf" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/SCTV13-0.png/revision/latest/scale-to-width-down/340?cb=20201011111414&path-prefix=vi",SCTV13| Phụ Nữ
 http://gg.gg/cocasctv13
 
-#EXTINF:-1 tvg-id="sctv14_phim_viet" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bc/K%C3%AAnh_phim_vi%E1%BB%87t_SCTV14.png/revision/latest/scale-to-width-down/340?cb=20201022110923&path-prefix=vi",SCTV14| Phim Việt
+#EXTINF:-1 tvg-id="sctv14_phim_viet" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/SCTV14.png/revision/latest/scale-to-width-down/340?cb=20201011105058&path-prefix=vi",SCTV14| Phim Việt
 http://gg.gg/cocasctv14
 
-#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/SCTV15_SSport2_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142513&path-prefix=vi",SCTV15| 🅢Sport 2
-http://gg.gg/cocasctv15
+#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/SCTV15_SSport2_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142513&path-prefix=vi",SCTV15| 🅢Sport 2
+http://gg.gg/cocasctv15 
 
-#EXTINF:-1 tvg-id="sctv16" group-title="🎭| SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png",SCTV16 | Phim Nước Ngoài
-http://gg.gg/cocasctv16
+#EXTINF:-1 tvg-id="sctv16" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/SCTV_HD_PNNDS_logo_2021.png/revision/latest/scale-to-width-down/340?cb=20210102042524&path-prefix=vi",SCTV16 | Phim Nước Ngoài
+http://gg.gg/cocasctv16 
 
-#EXTINF:-1 tvg-id="sctv17_hd" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/SCTV17_SSport_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142428&path-prefix=vi",SCTV17| 🅢Sport
+#EXTINF:-1 tvg-id="sctv17_hd" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/SCTV17_SSport_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142428&path-prefix=vi",SCTV17| 🅢Sport
 http://gg.gg/cocasctv17
 
-#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/K%C3%AAnh_18_SCTV18.png/revision/latest/scale-to-width-down/340?cb=20201011121949&path-prefix=vi",SCTV18| Kênh 18
+#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/SCTV18_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201126061119&path-prefix=vi",SCTV18| Kênh 18
 http://gg.gg/cocasctv18
 
-#EXTINF:-1 tvg-id="sctv19" group-title="🎭| SCTV" tvg-logo="https://i.imgur.com/MzE6dyc.jpg",SCTV19| T channel
+#EXTINF:-1 tvg-id="sctv19" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest/scale-to-width-down/340?cb=20201021060457&path-prefix=vi",SCTV19| T channel
 http://gg.gg/cocasctv19
 
-#EXTINF:-1 tvg-id="sctv20" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/SCTV20.png/revision/latest/scale-to-width-down/340?cb=20201021060127&path-prefix=vi",SCTV20| Ca Nhạc
+#EXTINF:-1 tvg-id="sctv20" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/SCTV20.png/revision/latest/scale-to-width-down/340?cb=20201021060127&path-prefix=vi",SCTV20| Ca Nhạc
 http://gg.gg/cocasctv20
 
-#EXTINF:-1 tvg-id="sctv21" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Vi%E1%BB%87t_Nam_k%C3%BD_%E1%BB%A9c_%28SCTV21%29_logo.png/revision/latest/scale-to-width-down/340?cb=20191101130321",SCTV21| Việt Nam Ký Ức
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive2/SCTV21_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=Hth4nhytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+#EXTINF:-1 tvg-id="ctv22" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/SCTV22_SSport_1_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142239&path-prefix=vi",SCTV22| 🅢Sport 1
+http://gg.gg/cocasctv22 
 
-#EXTINF:-1 tvg-id="ctv22" group-title="🎭| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/SCTV22_SSport_1_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142239&path-prefix=vi",SCTV22| 🅢Sport 1
-http://gg.gg/cocasctv22
+#EXTINF:-1 tvg-id="btv5" group-title="🍜| SCTV " tvg-logo="https://i.imgur.com/M46Ojrv.png",BTV5| 🅢Sport 3
+http://gg.gg/cocabtv5
+
+#EXTINF:-1 tvg-id="sctv_phim_tong_hop" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/SCTV_PTH_LOGO_2017.png/revision/latest/scale-to-width-down/340?cb=20201206083511&path-prefix=vi",SCTV Phim Tổng Hợp
+http://gg.gg/cocasctvpth
+
+
+
+#EXTINF:-1 tvg-id="sctv2_hd" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Asia_Millennials_Channel_logo.png/revision/latest/scale-to-width-down/340?cb=20200604152030",SCTV2| AMC
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+
+#EXTINF:-1 tvg-id="sctv3_see_tv" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/See_TV_HD_SCTV3_HD.png/revision/latest/scale-to-width-down/340?cb=20201212051952&path-prefix=vi",SCTV3| SEE TV
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVHDThieunhi_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+
+#EXTINF:-1 tvg-id="sctv6_hd" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d0/SNTV_sctv6_logo_2008.2017.png/revision/latest/scale-to-width-down/340?cb=20201010114942&path-prefix=vi", SCTV6| SN TV
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vtsstr6.tv24.vn:443/live/_definst_/smil:SCTV6HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+
+#EXTINF:-1 tvg-id="sctv7_hd" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/SHOW_TV_%28SCTV7%29_logo.png/revision/latest/scale-to-width-down/340?cb=20201016102705&path-prefix=vi",SCTV7| SHOW TV
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV_HD_SanKhau.smil/chunklist_w77415307_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+
+#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/TV_STAR_SCTV11_LOGO.png/revision/latest/scale-to-width-down/340?cb=20201010114236&path-prefix=vi",SCTV 11| STAR TV
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVVHNT_HD.smil/chunklist_w77415307_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+
+#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/K%C3%AAnh_18_SCTV18.png/revision/latest/scale-to-width-down/340?cb=20201011121949&path-prefix=vi",SCTV18| CHANNEL 18
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV18_HD.smil/chunklist_w83587666_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+
+#EXTINF:-1 tvg-id="sctv_phim_tong_hop" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b9/SCTV_PTH_logo_2012.png/revision/latest/scale-to-width-down/340?cb=20201026051320&path-prefix=vi",SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - HTV#
