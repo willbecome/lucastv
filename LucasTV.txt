@@ -111,13 +111,13 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="htv7hd" group-title="🌇| HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c6/HTV7_%282016-nay%29.png/revision/latest/scale-to-width-down/340?cb=20200608060620&path-prefix=vi" tvg-chno="27",HTV7
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://live-vthcm.vieon.vn:443/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8?lic=HThanh&cre=CoocaaTV
-#http://14.173.222.74:8888/HThanhVieon/get_vieon.php?id=80d8672e-5bea-4292-822b-302724b026f0
+#http://123.28.235.158:8888/HThanhVieon/get_vieon.php?id=80d8672e-5bea-4292-822b-302724b026f0
 #https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="htv9hd" group-title="🌇| HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/HTV9_%282016-nay%29.png/revision/latest/scale-to-width-down/340?cb=20200608060619&path-prefix=vi" tvg-chno="29",HTV9
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://live-vthcm.vieon.vn:443/htv_drm/live/htv9/TV_HD/htv9_1080p/chunks.m3u8?lic=HThanh&cre=CoocaaTV
-#http://14.173.222.74:8888/HThanhVieon/get_vieon.php?id=ded3fe02-c792-4c56-b23c-7ebcc86ec069
+#http://123.28.235.158:8888/HThanhVieon/get_vieon.php?id=ded3fe02-c792-4c56-b23c-7ebcc86ec069
 #https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 
 
@@ -146,6 +146,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvc_vgs_shop" group-title="🌇| HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/08/02/265341-logo_htvc_shopping.png" tvg-chno="28",HTVC| VGS Shopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
+
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTV1080#
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo=https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1 ¹⁰⁸⁰ᵖ
