@@ -1,4 +1,35 @@
-﻿#EXTM3U TV NewGen - Luôn cập nhật kênh ổn định
+#EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 m3uautoload=1 
+#EXTM3U TVNEWGEN - List cá nhân xài không phân vân
+ #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV DIGITAL#
+ #EXTINF:-1 tvg-id="sctv3hd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
+https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv3
+
+#EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://i.postimg.cc/5yZDZSBc/sctv8hd.png" group-title="꧁⚽️HThanh⚽️꧂", SCTV8 HD
+https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv8
+
+
+
+
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="꧁⚽️HThanh⚽️꧂", SCTV9 HD - Digital
+http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/82050868
+#EXTINF:-1 tvg-id="sctv1hd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
+https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv11
+
+#EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://i.imgur.com/WuSaRyT.jpg" group-title="꧁⚽️HThanh⚽️꧂", SCTV12 HD - Digital
+http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1965103628
+
+#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://i.imgur.com/oRj3ggd.jpg" group-title="꧁⚽️HThanh⚽️꧂", SCTV14 HD - Digital
+http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1478078002
+#EXTINF:-1 tvg-id="sctv15hd" tvg-logo="https://i.postimg.cc/7YSxq5f1/sctv15hd.png" group-title="꧁⚽️HThanh⚽️꧂", SCTV15 HD
+https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv15
+
+#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://static-stage.tv24.vn/shortcut/538/sctv16_300_169.jpg" group-title="꧁⚽️HThanh⚽️꧂", SCTV16 HD - Digital
+http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/532804607
+
+#EXTINF:-1 tvg-id="sctvpth" tvg-logo="https://i.imgur.com/FoZneoI.jpg" group-title="꧁⚽️HThanh⚽️꧂", SCTV Phim Tổng Hợp
+http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/562844589
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV#
 #EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", SCTV1 HD - Hài
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_Hai_new1.smil/chunklist_w779407031_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
