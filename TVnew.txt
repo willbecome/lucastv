@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 m3uautoload=1 
 #EXTM3U TVNEWGEN - List cá nhân xài không phân vân
- #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV DIGITAL#
+ #SCTV DIGITAL#
  #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV DIGITAL" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
 https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv3
 
