@@ -4,13 +4,11 @@
 #EXTM3U TVNEWGEN - List cá nhân xài không phân vân
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - K+ Kẹo #
-#EXTINF:-1 tvg-id="kpmhd" group-title="K+ Kẹo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1
+#EXTINF:-1 tvg-id="kpmhd" group-title="K+ Kẹo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1 http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/2039478860
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+ Kẹo" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+ Kẹo" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - HTV #
-#EXTINF:-1 tvg-id="kpmhd" group-title="K+ Kẹo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1
-#EXTINF:-1 tvg-id="kpmhd" group-title="K+ Kẹo" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM
-#EXTINF:-1 tvg-id="kpmhd" group-title="K+ Kẹo" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC
+
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png", HTV2 HD
