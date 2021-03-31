@@ -13,6 +13,8 @@ https://live.quangkv.com/vieon/kns.m3u8
 http://trialsonserver.ddns.net:9981/stream/channelid/353254431?auth=PYHAerZPIS61AxDYcK6EQRjhaTkU&profile=pass
 #EXTINF:-1 tvg-id="kpluspchd" group-title="K+" tvg-logo="https://i.ibb.co/9bWKmN8/K-PC-HD-BEARTV.png",K+PC HD
 http://trialsonserver.ddns.net:9981/stream/channelid/483680160?auth=PYHAerZPIS61AxDYcK6EQRjhaTkU&profile=pass
+#EXTINF:-1 tvg-id="kpchd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC 
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1918773025
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - HTV #
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1
@@ -44,7 +46,39 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist
 #EXTINF:-1 tvg-id="htvc_plus_hd" tvg-logo="https://i.ibb.co/K2tfJM6/HTVCPLUS-BEARTV.png" group-title="HTV",HTVC Plus
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
+
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV TEST#
+
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV TEST" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
+https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv3
+
+#EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://i.postimg.cc/5yZDZSBc/sctv8hd.png" group-title="SCTV TEST", SCTV8 HD
+https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv8
+
+
+
+
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="SCTV TEST", SCTV9 HD - Digital
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/82050868
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV TEST" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
+https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv11
+
+#EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://i.imgur.com/WuSaRyT.jpg" group-title="SCTV TEST", SCTV12 HD - Digital
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1965103628
+
+#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://i.imgur.com/oRj3ggd.jpg" group-title="SCTV TEST", SCTV14 HD - Digital
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1478078002
+#EXTINF:-1 tvg-id="sctv15hd" tvg-logo="https://i.postimg.cc/7YSxq5f1/sctv15hd.png" group-title="SCTV TEST", SCTV15 HD
+https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv15
+
+#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://static-stage.tv24.vn/shortcut/538/sctv16_300_169.jpg" group-title="SCTV TEST", SCTV16 HD - Digital
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/532804607
+
+#EXTINF:-1 tvg-id="sctvpth" tvg-logo="https://i.imgur.com/FoZneoI.jpg" group-title="SCTV TEST", SCTV Phim Tổng Hợp
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/562844589
+
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV DIGITAL#
+
  #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV DIGITAL" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
 https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv3
 
