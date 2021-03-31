@@ -14,7 +14,7 @@ http://trialsonserver.ddns.net:9981/stream/channelid/353254431?auth=PYHAerZPIS61
 #EXTINF:-1 tvg-id="kpluspchd" group-title="K+" tvg-logo="https://i.ibb.co/9bWKmN8/K-PC-HD-BEARTV.png",K+PC HD
 http://trialsonserver.ddns.net:9981/stream/channelid/483680160?auth=PYHAerZPIS61AxDYcK6EQRjhaTkU&profile=pass
 #EXTINF:-1 tvg-id="kpchd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC 
-#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1918773025
+http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1918773025
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - HTV #
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1
