@@ -59,7 +59,7 @@ https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv8
 
 
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="SCTV TEST", SCTV9 HD - Digital
-http://tvmienphi.tv/live-tv/sctv9.html
+https://sv.tvmienphi.tv/ok/sctv/sctv9show.php
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV TEST" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
 https://hthanhmedia.000webhostapp.com/hthanh_sctv.php?id=sctv11
 
