@@ -3,6 +3,61 @@
 #EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 m3uautoload=1 
 #EXTM3U TVNEWGEN - List cá nhân xài không phân vân
 
+
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV Leak#
+
+#EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", SCTV1 HD - Hài
+https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_Hai_new1.smil/chunklist_w779407031_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:0 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png", SCTV2 HD - AMC
+http://ad.vacovska.cf:1935/live/sctv2_HD_4/chunklist_w287220571.m3u8?acc=vaythivayhan&time=1554702727&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks&pass=xemmong
+#https://vtsstr6.tv24.vn/live/_definst_/smil:sctv2_HD_new1.smil/chunklist_w1365423457_b2692000.m3u8?uid=y244c4a4s29474z584x506&mytokenstarttime=1613746477&mytokenendtime=1613753977&mytokenhash=3bn2YFSNJgzPsRN0uj0G-yxpH8uJ13fCN4Lj1pcnxTM=
+#EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png", SCTV3 HD - See TV
+https://rlink.vn/bearlivetv_sctv3
+#https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVHDThieunhi_new1.smil/chunklist_w1077691464_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",SCTV 4 HD - Giải Trí
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_GiaiTri_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png", SCTV6 HD - SNTV
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV6HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rGyYtmX/SCTV7-BEARTV.png", SCTV7 HD - SHOW
+https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_SanKhau_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="https://i.ibb.co/3Mps2Cw/SCTV8-BEARTV.png", SCTV8 HD - VITV
+https://rlink.vn/bearlivetv_sctv8
+#https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV8_SD_new1.smil/chunklist_b2292000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="SCTV TEST", SCTV9 HD - Digital
+http://14.187.197.27:8080/live/sctv9/index.m3u8?token=pJp9bwxIrAp6ZPN5Fp-YGg&e=1617260823
+#EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 - Phim TVB
+https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA.smil/chunklist_b1692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png", SCTV11 HD - TV STAR
+https://rlink.vn/bearlivetv_sctv11
+#https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVVHNT_HD.smil/chunklist_w77415307_b2692000.m3u8
+#EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://i.ibb.co/SKG7SMb/SCTV12-BEARTV.png", SCTV12 HD - Du Lịch
+https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV12_HD_new.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png", SCTV13 HD - Lady TV
+https://rlink.vn/bearlivetv_sctv13
+#https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTVHDPhunuGiadinh_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV" tvg-logo="https://i.ibb.co/0YtfJK8/SCTV14-BEARTV.png", SCTV14 HD - Kênh Phim Việt
+https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimViet_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://i.ibb.co/1dFdSLF/SCTV15-BEARTV.png", SCTV15 HD - Ssport 2
+https://rlink.vn/bearlivetv_sctv15
+#https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_TheThao_new1.smil/chunklist_w16242433_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png", SCTV16 HD - Phim Nước Ngoài Đặc Sắc (Fox Action Movies)
+https://rlink.vn/bearlivetv_sctv16
+#https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_phimnuocngoaidacsac_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/nRbQjXc/SCTV17-BEARTV.png", SCTV17 HD - Ssport
+https://rlink.vn/bearlivetv_sctv17
+#https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD_new.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png", SCTV18 HD - Kênh 18
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV18_HD_new.smil/chunklist__b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://i.ibb.co/TwKfHGD/SCTV19-BEARTV.png", SCTV19 HD - Channel T
+https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV19_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png", SCTV20 HD - Ca Nhạc
+https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV20_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://i.ibb.co/SwpzGqp/SCTV22-BEARTV.png", SCTV22 HD - Ssport 1
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD_new1.smil/chunklist_b2692000.m3u?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png", SCTV HD Phim Tổng Hợp
+https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_w83587666_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="s_sport_3" group-title="SCTV" tvg-logo="https://i.ibb.co/NNpj992/BTV5-BEARTV.png", BTV5 HD - Ssport 3
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/chunklist_w1935737310_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - K+#
 #EXTINF:0 tvg-id="kplus1hd"group-title="K+" tvg-logo="https://i.ibb.co/ZBdBfjR/K-1-BEARTV.png" ,K+1 HD
 http://trialsonserver.ddns.net:9981/stream/channelid/1020751378?auth=PYHAerZPIS61AxDYcK6EQRjhaTkU&profile=pass
@@ -96,117 +151,6 @@ http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/610
 http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
 
 
-
-
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV Leak#
-
-
-#EXTINF:-1 tvg-id="sctv1" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/CXV_logo_THVL1.jpg/revision/latest/smart/width/200/height/200?cb=20201129023945&path-prefix=vi", SCTV1| Hài
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_Hai_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv2_hd" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png/revision/latest/scale-to-width-down/340?cb=20190716055604",SCTV2| AMC
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1 tvg-id="sctv3_see_tv" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/See_TV_HD_SCTV3_HD.png/revision/latest/scale-to-width-down/340?cb=20201212051952&path-prefix=vi",SCTV3| Thiếu Nhi
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTVHDThieunhi_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv4" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/GChannel.png/revision/latest/scale-to-width-down/340?cb=20200927081619&path-prefix=vi",SCTV4| Giải Trí
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_GiaiTri_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv5" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/SCJ_Life_On_old_2011-0.png/revision/latest/scale-to-width-down/340?cb=20201015001749&path-prefix=vi",SCTV5| SCJ Shopping
-EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/SCTV5_SD.smil/chunklist_b2292000.m3u8??uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv6_hd" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d0/SNTV_sctv6_logo_2008.2017.png/revision/latest/scale-to-width-down/340?cb=20201010114942&path-prefix=vi",SCTV6| Thế Hệ Mới
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV6HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv7_hd" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/SHOW_TV_%28SCTV7%29_logo.png/revision/latest/scale-to-width-down/340?cb=20201016102705&path-prefix=vi",SCTV7| Sân Khấu
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_SanKhau_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv8" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/VITV_2009.png/revision/latest?cb=20200926013001",SCTV8| Kinh Tế
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV8_SD_new1.smil/chunklist_b2292000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50= 
-
-
-#EXTINF:-1 tvg-id="sctv9" group-title="🍜| SCTV " tvg-logo="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/11143478_863422040415631_5991673199718790604_n.jpg?_nc_cat=106&ccb=3&_nc_sid=174925&_nc_ohc=IGy5pBoHmUIAX8_x9xx&_nc_ht=scontent.fvca1-1.fna&oh=68528739e29408fd00d20d4edbdf1e94&oe=60644633",SCTV9| Phim TVB
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA.smil/chunklist_b1692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/TV_STAR_SCTV11_LOGO.png/revision/latest/scale-to-width-down/340?cb=20201010114236&path-prefix=vi",SCTV11| Ngôi Sao
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVVHNT_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv12" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/SCTV_HD_DL.png/revision/latest/scale-to-width-down/340?cb=20201013040843&path-prefix=vi",SCTV12|Du Lịch & Khám Phá
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV12_HD_new.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv13_hd_tvf" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/Lady_TV_logo_2017.png/revision/latest/scale-to-width-down/340?cb=20201011111431&path-prefix=vi",SCTV13| Phụ Nữ
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTVHDPhunuGiadinh_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv14_phim_viet" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bc/K%C3%AAnh_phim_vi%E1%BB%87t_SCTV14.png/revision/latest/scale-to-width-down/340?cb=20201022110923&path-prefix=vi",SCTV14| Phim Việt
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimViet_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="🍜| SCTV " tvg-logo="https://www.noccoffee.net/images/sctv17.jpg",SCTV15| 🅢Sport 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_TheThao_new1.smil/chunklist_w16242433_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv16" group-title="🍜| SCTV " tvg-logo="https://www.sctv.com.vn/Media/RadManager/Image/2018/TINTUC-SUKIEN/Thang4/Vnahoa-giaitri/bochoi_1.gif",SCTV16 | MPhim Nước Ngoài
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_phimnuocngoaidacsac_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv17_hd" group-title="🍜| SCTV " tvg-logo="https://www.noccoffee.net/images/sctv17.jpg",SCTV17| 🅢Sport
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD_new.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/K%C3%AAnh_18_SCTV18.png/revision/latest/scale-to-width-down/340?cb=20210128042528",SCTV18| Kênh 18
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV18_HD_new.smil/chunklist__b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv19" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/Channel_T.png/revision/latest/scale-to-width-down/340?cb=20201010111613&path-prefix=vi",SCTV19| T channel
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV19_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="sctv20" group-title="🍜| SCTV " tvg-logo="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/106370123_144327427255837_8671102142252984837_o.jpg?_nc_cat=111&ccb=3&_nc_sid=e3f864&_nc_ohc=6M0UbdBfPIAAX8xPPWo&_nc_ht=scontent.fvca1-1.fna&oh=bbe28db772691a7b369291228f6417ca&oe=6064B849",SCTV20| Ca Nhạc
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV20_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-
-#EXTINF:-1 tvg-id="ctv22" group-title="🍜| SCTV " tvg-logo="https://www.noccoffee.net/images/sctv17.jpg",SCTV22| 🅢Sport 1
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50= 
-
-
-#EXTINF:-1 tvg-id="btv5" group-title="🍜| SCTV " tvg-logo="https://www.noccoffee.net/images/sctv17.jpg",BTV5| 🅢Sport 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-#EXTINF:-1 tvg-id="sctv_phim_tong_hop" group-title="🍜| SCTV " tvg-logo="https://anvienhd.net/uploads/images/hinhanh/172968910155d370eda21665.66224908.png",Phim Tổng Hợp
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVHDPhimTH_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50= 
 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTV1080#
