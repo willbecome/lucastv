@@ -16,7 +16,6 @@ http://trialsonserver.ddns.net:9981/stream/channelid/483680160?auth=PYHAerZPIS61
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC 
 http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1918773025
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - HTV #
-
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png", HTV2 HD
@@ -130,7 +129,7 @@ http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/562
 
 
 
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV#
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV Leak#
 
 
 #EXTINF:-1 tvg-id="sctv1" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/CXV_logo_THVL1.jpg/revision/latest/smart/width/200/height/200?cb=20201129023945&path-prefix=vi", SCTV1| Hài
@@ -148,7 +147,7 @@ https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTVHDThieunhi_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 
 
-#EXTINF:-1 tvg-id="sctv4" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/GChannel.png/revision/latest/scale-to-width-down/340?cb=20200927081619&path-prefix=vi",SCTV4| GIai3 Trí
+#EXTINF:-1 tvg-id="sctv4" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/GChannel.png/revision/latest/scale-to-width-down/340?cb=20200927081619&path-prefix=vi",SCTV4| Giải Trí
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_GiaiTri_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 
