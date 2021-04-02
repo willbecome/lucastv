@@ -178,6 +178,17 @@ http://play.nhanhtv.com/playmedia.php?sv=https://kgqtx.aiguitar.cn/live/aiqiyi3.
 http://trialsonserver.ddns.net:9981/stream/channelid/483680160?auth=PYHAerZPIS61AxDYcK6EQRjhaTkU&profile=pass
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PC 
 http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1918773025
+
+
+#EXTINF:-1,K+1 HD (DRM)
+http://1.52.243.130:4022/udp/225.1.1.5:30120
+#EXTINF:-1,K+NS HD (DRM)
+http://1.52.243.130:4022/udp/225.1.1.6:30120
+#EXTINF:-1,K+PM HD (DRM)
+http://1.52.243.130:4022/udp/225.1.1.73:30120
+#EXTINF:-1,K+PC HD (DRM)
+http://1.52.243.130:4022/udp/225.1.1.77:30120
+
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - HTV #
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
