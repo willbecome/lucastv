@@ -923,3 +923,543 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="KÊNH THỂ THAO", KOK UFC
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD (HD 8Mbps)
+udp://@225.1.2.249:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 8Mbps)
+udp://@225.1.2.13:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD (HD 8Mbps)
+udp://@225.1.2.247:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD (HD 8Mbps)
+udp://@225.1.2.20:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD (HD 8Mbps)
+udp://@225.1.1.131:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",VTV6 HD (HD 8Mbps)
+udp://@225.1.2.245:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD (HD 8Mbps)
+udp://@225.1.2.96:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8 HD (HD 8Mbps)
+udp://@225.1.2.166:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD (HD 8Mbps)
+udp://@225.1.1.128:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD (HD 8Mbps)
+udp://@225.1.1.239:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 8Mbps)
+udp://@225.1.1.240:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD (HD 8Mbps)
+udp://@225.1.1.241:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 4Mbps)
+udp://@225.1.4.2:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD (HD 4Mbps)
+udp://@225.1.4.3:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD (HD 4Mbps)
+udp://@225.1.4.4:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",VTV6 HD (HD 4Mbps)
+udp://@225.1.4.6:30120
+#-------------------VTC/VOV-------------------#
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD (HD 8Mbps)
+udp://@225.1.2.254:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD (HD 8Mbps)
+udp://@225.1.2.251:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD (HD 8Mbps)
+udp://@225.1.2.200:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD (HD 8Mbps)
+udp://@225.1.2.250:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD (HD 8Mbps)
+udp://@225.1.2.88:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD (HD 8Mbps)
+udp://@225.1.2.190:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD (HD 4Mbps)
+udp://@225.1.4.42:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD (HD 4Mbps)
+udp://@225.1.4.52:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
+udp://@225.1.2.199:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6
+udp://@225.1.2.198:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7
+udp://@225.1.2.197:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9
+udp://@225.1.2.195:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10
+udp://@225.1.2.194:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11
+udp://@225.1.2.193:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
+udp://@225.1.2.51:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
+udp://@225.1.2.171:30120
+#-------------------HTV/HTVC-------------------#
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel (HD 8Mbps)
+udp://@225.1.1.193:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD (HD 8Mbps)
+udp://@225.1.1.192:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD (HD 8Mbps)
+udp://@225.1.1.190:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FBNC (HD 8Mbps)
+udp://@225.1.1.182:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim (HD 8Mbps)
+udp://@225.1.1.184:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/Y1dU8EG.jpg",Thuần Việt HD (HD 8Mbps)
+udp://@225.1.1.186:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD (HD 4Mbps)
+udp://@225.1.4.59:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3 Dreams TV
+udp://@225.1.1.178:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
+udp://@225.1.1.177:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO
+udp://@225.1.1.165:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc
+udp://@225.1.1.185:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống
+udp://@225.1.1.166:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình
+udp://@225.1.1.170:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ
+udp://@225.1.1.171:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt
+udp://@225.1.1.174:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTVC+
+udp://@225.1.1.181:30120
+#-------------------SCTV-------------------#
+
+#-------------------Thiết yếu-------------------#
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
+udp://@225.1.2.169:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 8Mbps)
+udp://@225.1.1.91:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/713vQig.jpg",QUỐC HỘI (HD 8Mbps)
+udp://@225.1.2.148:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 8Mbps)
+udp://@225.1.2.217:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 8Mbps)
+udp://@225.1.1.43:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/713vQig.jpg",QUỐC HỘI (HD 4Mbps)
+udp://@225.1.4.148:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 4Mbps)
+udp://@225.1.4.217:30120
+#-------------------Other-------------------#
+#EXTINF:-1 group-title="Chỉ mạng FPT",HanoiCab2 YouTV
+udp://@225.1.1.207:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT" tvg-logo="https://imgur.com/qzEFit1",MTV
+udp://@225.1.1.245:30120
+#-------------------Địa phương HD-------------------#
+#EXTINF:-1 group-title="Chỉ mạng FPT",THLC _ TH Lào Cai (HD 8Mbps)
+udp://@225.1.1.119:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",ĐTV HD _ TH Điện Biên (HD 8Mbps)
+udp://@225.1.1.74:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TTV HD _ TH Tuyên Quang (HD 8Mbps)
+udp://@225.1.2.188:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
+udp://@225.1.2.179:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HBTV HD _ TH Hòa Bình (HD 4Mbps)
+udp://@225.1.2.168:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",PTV HD _ TH Phú Thọ (HD 8Mbps)
+udp://@225.1.2.165:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BGTV HD _ TH Bắc Giang (HD 8Mbps)
+udp://@225.1.1.164:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
+udp://@225.1.1.160:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",CRTV HD _ TH Cao Bằng (HD 8Mbps)
+udp://@225.1.1.102:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
+udp://@225.1.2.181:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV _ TH Bắc Ninh (HD 8Mbps)
+udp://@225.1.1.40:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",H1 HD _ TH Hà Nội (HD 8Mbps)
+udp://@225.1.2.186:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",H2 HD _ TH Hà Nội (HD 8Mbps)
+udp://@225.1.1.125:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
+udp://@225.1.1.44:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",NTV HD _ TH Ninh Bình (HD 8Mbps)
+udp://@225.1.2.185:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",NTV HD _ TH Nghệ An (HD 8Mbps)
+udp://@225.1.2.183:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
+udp://@225.1.1.75:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",QRTV _ TH Quảng Trị (HD 8Mbps)
+udp://@225.1.1.117:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
+udp://@225.1.1.147:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
+udp://@225.1.1.146:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",QRT HD _ TH Quảng Nam (HD 8Mbps)
+udp://@225.1.2.50:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",PTQ _ TH Quảng Ngãi (HD 8Mbps)
+udp://@225.1.2.174:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV _ TH Bình Định (HD 8Mbps)
+udp://@225.1.1.145:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",PTP _ TH Phú Yên (HD 8Mbps)
+udp://@225.1.2.58:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",KTV HD _ TH Khánh Hòa (HD 8Mbps)
+udp://@225.1.1.133:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",KRT _ TH Kon Tum (HD 8Mbps)
+udp://@225.1.1.36:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THGL _ TH Gia Lai (HD 8Mbps)
+udp://@225.1.2.176:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",LTV HD _ TH Lâm Đồng (HD 8Mbps)
+udp://@225.1.2.177:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV1 HD _ TH Bình Dương (HD 8Mbps)
+udp://@225.1.1.150:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV2 HD _ TH Bình Dương (HD 8Mbps)
+udp://@225.1.1.149:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV3 HD _ TH Bình Dương (HD 8Mbps)
+udp://@225.1.2.22:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV4 HD _ TH Bình Dương (HD 8Mbps)
+udp://@225.1.1.30:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV9 An Viên HD (HD 8Mbps)
+udp://@225.1.2.189:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
+udp://@225.1.1.152:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
+udp://@225.1.1.151:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TTV11 _ TH Tây Ninh (HD 8Mbps)
+udp://@225.1.1.130:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
+udp://@225.1.2.175:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THTG HD _ TH Tiền Giang (HD 8Mbps)
+udp://@225.1.2.170:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
+udp://@225.1.1.155:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
+udp://@225.1.1.154:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
+udp://@225.1.1.235:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
+udp://@225.1.2.25:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THTV HD _ TH Trà Vinh (HD 8Mbps)
+udp://@225.1.2.172:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HGTV _ TH Hậu Giang (HD 8Mbps)
+udp://@225.1.1.157:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",KG1 _ TH Kiên Giang (HD 8Mbps)
+udp://@225.1.2.182:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
+udp://@225.1.1.61:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",CTV _ TH Cà Mau (HD 8Mbps)
+udp://@225.1.1.104:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
+udp://@225.1.1.132:30120
+#-------------------Địa phương SD-------------------#
+#EXTINF:-1 group-title="Chỉ mạng FPT",YTV _ TH Yên Bái
+udp://@225.1.1.39:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",LTV _ TH Lai Châu
+udp://@225.1.2.36:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",STV _ TH Sơn La
+udp://@225.1.1.98:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HGTV _ TH Hà Giang
+udp://@225.1.1.62:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TBK _ TH Bắc Kạn
+udp://@225.1.1.126:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",QTV3 _ TH Quảng Ninh
+udp://@225.1.2.180:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THHN _ TH Hà Nam
+udp://@225.1.1.63:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THD _ TH Hải Dương
+udp://@225.1.1.158:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HY _ TH Hưng Yên
+udp://@225.1.1.118:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",NTV _ TH Nam Định
+udp://@225.1.1.120:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TBTV _ TH Thái Bình
+udp://@225.1.1.99:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VP _ TH Vĩnh Phúc
+udp://@225.1.2.99:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TTV _ TH Thanh Hóa
+udp://@225.1.2.184:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",QBTV _ TH Quảng Bình
+udp://@225.1.2.164:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TRT _ TH Thừa Thiên Huế
+udp://@225.1.1.161:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",NTV _ TH Ninh Thuận
+udp://@225.1.2.178:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV _ TH Bình Thuận
+udp://@225.1.1.124:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",DRT _ TH Đắk Lắk
+udp://@225.1.1.64:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BPTV1 _ TH Bình Phước
+udp://@225.1.2.23:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BPTV2 Home TV
+udp://@225.1.2.38:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV6 _ TH Bình Dương
+udp://@225.1.1.223:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV10 NCM
+udp://@225.1.1.225:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",LA34 _ TH Long An
+udp://@225.1.1.162:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THĐT1 _ TH Đồng Tháp
+udp://@225.1.1.163:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",ATV _ TH An Giang
+udp://@225.1.2.173:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THBT _ TH Bến Tre
+udp://@225.1.1.156:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",STV1 _ TH Sóc Trăng
+udp://@225.1.1.159:30120
+#-------------------Quốc tế HD-------------------#
+#EXTINF:-1 group-title="Chỉ mạng FPT",Animal Planet (HD 8Mbps)
+udp://@225.1.1.231:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Animax (HD 8Mbps)
+udp://@225.1.1.135:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Asian Food Network (HD 8Mbps)
+udp://@225.1.1.198:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",AXN (HD 8Mbps)
+udp://@225.1.2.225:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Baby TV (HD 8Mbps)
+udp://@225.1.2.146:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BBC CbeeBies (HD 8Mbps)
+udp://@225.1.1.134:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BBC Earth (HD 8Mbps)
+udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BOOMERANG (HD 8Mbps)
+udp://@225.1.1.138:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BLUE ANT ENTERTAINMENT (HD 8Mbps)
+udp://@225.1.1.203:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BLUE ANT EXTREME (HD 8Mbps)
+udp://@225.1.1.204:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",CARTOON NETWORK (HD 8Mbps)
+udp://@225.1.2.231:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",[V] HD (HD 8Mbps)
+udp://@225.1.1.188:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Cinema World (HD 8Mbps)
+udp://@225.1.1.142:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",CINEMAX (HD 8Mbps)
+udp://@225.1.2.86:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Da Vinci (HD 8Mbps)
+udp://@225.1.1.197:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Discovery Asia (HD 8Mbps)
+udp://@225.1.2.223:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Discovery Channel (HD 8Mbps)
+udp://@225.1.1.238:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Disney Channel (HD 8Mbps)
+udp://@225.1.2.158:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Disney Junior (HD 8Mbps)
+udp://@225.1.1.110:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Disney Junior (HD 8Mbps)
+udp://@225.1.1.233:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Dreamworks (HD 8Mbps)
+udp://@225.1.1.136:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",DW (HD 8Mbps)
+udp://@225.1.1.46:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Fashion TV (HD 8Mbps)
+udp://@225.1.2.227:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Fashion TV 4K
+udp://@225.1.2.232:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Fashion TV 4K
+udp://@225.1.2.234:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX HD (HD 8Mbps)
+udp://@225.1.1.51:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Fox Family Movies (HD 8Mbps)
+udp://@225.1.1.140:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX Life (HD 8Mbps)
+udp://@225.1.2.237:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX MOVIES (HD 8Mbps)
+udp://@225.1.2.239:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX SPORTS (HD 8Mbps)
+udp://@225.1.2.229:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX SPORTS 2 (HD 8Mbps)
+udp://@225.1.1.141:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX SPORTS 3 (HD 8Mbps)
+udp://@225.1.2.242:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FX (HD 8Mbps)
+udp://@225.1.1.213:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HBO (HD 8Mbps)
+udp://@225.1.2.233:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HBO (HD 12Mbps)
+udp://@225.1.4.90:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",KIX (HD 8Mbps)
+udp://@225.1.2.144:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+udp://@225.1.2.235:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",NAT GEO WILD (HD 8Mbps)
+udp://@225.1.1.211:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",NHK WORLD JAPAN (HD 8Mbps)
+udp://@225.1.1.47:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Outdoor Channel (HD 8Mbps)
+udp://@225.1.2.215:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",RED BY HBO (HD 8Mbps)
+udp://@225.1.1.93:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TLC (HD 8Mbps)
+udp://@225.1.1.236:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",WBTV (HD 8Mbps)
+udp://@225.1.1.139:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",[V] HD (HD 4Mbps)
+udp://@225.1.4.30:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Da Vinci (HD 4Mbps)
+udp://@225.1.4.38:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX life (HD 8Mbps)
+udp://@225.1.4.32:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+udp://@225.1.4.31:30120
+#-------------------Quốc tế SD-------------------#
+#EXTINF:-1 group-title="Chỉ mạng FPT",Arirang
+udp://@225.1.1.201:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",ABC AUSTRALIA
+udp://@225.1.2.21:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Baby First
+udp://@225.1.1.137:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BBC Lifestyle
+udp://@225.1.2.52:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BBC WORLD NEWS
+udp://@225.1.2.74:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",CNA
+udp://@225.1.1.202:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",CNN
+udp://@225.1.1.242:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FRANCE 24 (English)
+udp://@225.1.2.211:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",KBS WORLD
+udp://@225.1.1.196:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TV5 MONDE ASIE
+udp://@225.1.1.200:30120
+#-------------------FPT Play-------------------#
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTV1 HD
+udp://@225.1.4.1:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTV5 HD
+udp://@225.1.4.5:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTV8 HD
+udp://@225.1.4.7:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTV9 HD
+udp://@225.1.4.8:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC2
+udp://@225.1.4.41:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC4 HD
+udp://@225.1.4.43:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC5
+udp://@225.1.4.44:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC6
+udp://@225.1.4.45:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC7
+udp://@225.1.4.46:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC8
+udp://@225.1.4.47:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC9
+udp://@225.1.4.48:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC10
+udp://@225.1.4.49:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC11
+udp://@225.1.4.50:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC14 HD
+udp://@225.1.4.53:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",VTC16 HD
+udp://@225.1.4.54:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTV1
+udp://@225.1.4.55:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTV2 Vie Channel HD
+udp://@225.1.4.56:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTV3 Dreams TV
+udp://@225.1.4.57:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTV Keys
+udp://@225.1.4.58:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTV THỂ THAO
+udp://@225.1.4.60:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTVC Du Lịch và Cuộc Sống
+udp://@225.1.4.67:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FBNC
+udp://@225.1.4.88:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FBNC HD
+udp://@225.1.4.70:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTVC Ca Nhạc
+udp://@225.1.4.92:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTVC Gia Đình
+udp://@225.1.4.64:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTVC Phim HD
+udp://@225.1.4.63:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTVC Phụ Nữ
+udp://@225.1.4.66:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTVC Thuần Việt
+udp://@225.1.4.61:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Thuần Việt HD
+udp://@225.1.4.62:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",HTVC+
+udp://@225.1.4.91:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV10 NCM
+udp://@225.1.4.83:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",QTV3 _ TH Quảng Ninh
+udp://@225.1.4.86:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BPTV2 _ HOME tv
+udp://@225.1.4.80:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV2 HD _ TH Bình Dương
+udp://@225.1.4.81:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV4 HD _ TH Bình Dương
+udp://@225.1.4.82:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BTV6 _ TH Bình Dương
+udp://@225.1.4.78:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",ĐNRTV2 HD _ TH Đồng Nai
+udp://@225.1.4.85:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",THVL2 HD _ TH Vĩnh Long
+udp://@225.1.4.87:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",ABC AUSTRALIA
+udp://@225.1.4.19:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Asian Food Network HD
+udp://@225.1.4.36:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Animal Planet HD
+udp://@225.1.4.27:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",arirang KOREA
+udp://@225.1.4.74:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",AXN HD
+udp://@225.1.4.9:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Baby First HD
+udp://@225.1.4.28:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Baby TV HD
+udp://@225.1.4.35:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BBC earth HD
+udp://@225.1.4.21:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BBC lifestyle
+udp://@225.1.4.23:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BBC WORLD NEWS
+udp://@225.1.4.22:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BLOOMBERG
+udp://@225.1.4.18:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",BOOMERANG
+udp://@225.1.4.16:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",CARTOON NETWORK HD
+udp://@225.1.4.13:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",cna
+udp://@225.1.4.76:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Cinema World HD
+udp://@225.1.4.15:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",CNN
+udp://@225.1.4.17:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Discovery Asia HD
+udp://@225.1.4.25:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Discovery Channel HD
+udp://@225.1.4.24:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",DW HD
+udp://@225.1.4.75:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FASHION TV HD
+udp://@225.1.4.20:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX HD
+udp://@225.1.4.33:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX MOVIES HD
+udp://@225.1.4.34:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX SPORTS HD
+udp://@225.1.4.10:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX SPORTS 2 HD
+udp://@225.1.4.11:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FOX SPORTS 3 HD
+udp://@225.1.4.12:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",FRANCE 24
+udp://@225.1.4.71:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",KBS WORLD
+udp://@225.1.4.69:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",KIX HD
+udp://@225.1.4.40:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",NHK WORLD JAPAN HD
+udp://@225.1.4.73:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",Outdoor Channel HD
+udp://@225.1.4.37:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TLC HD
+udp://@225.1.4.26:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",TV5 MONDE ASIE
+udp://@225.1.4.72:30120
+#EXTINF:-1 group-title="Chỉ mạng FPT",WBTV HD
+udp://@225.1.4.14:30120
