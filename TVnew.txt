@@ -1586,3 +1586,37 @@ udp://@225.1.4.26:30120
 udp://@225.1.4.72:30120
 #EXTINF:-1 group-title="Chỉ mạng FPT",WBTV HD
 udp://@225.1.4.14:30120
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="꧁⚽️HThanh⚽️꧂", SCTV9 HD - Digital
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/82050868
+
+#EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://i.imgur.com/WuSaRyT.jpg" group-title="꧁⚽️HThanh⚽️꧂", SCTV12 HD - Digital
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1965103628
+
+#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://i.imgur.com/oRj3ggd.jpg" group-title="꧁⚽️HThanh⚽️꧂", SCTV14 HD - Digital
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1478078002
+
+
+#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://static-stage.tv24.vn/shortcut/538/sctv16_300_169.jpg" group-title="꧁⚽️HThanh⚽️꧂", SCTV16 HD - Digital
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/532804607
+
+#EXTINF:-1 tvg-id="sctvpth" tvg-logo="https://i.imgur.com/FoZneoI.jpg" group-title="꧁⚽️HThanh⚽️꧂", SCTV Phim Tổng Hợp
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/562844589
+
+#EXTINF:-1 tvg-id="fxhd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://4.bp.blogspot.com/-8gF3NbZaqIE/Udqy8RA6-ZI/AAAAAAAABjA/1lHTk8nvrEs/s200/FX+HD.jpg",Fx HD
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1762481643?ticket=3D0385439478B5BE3B540C25BB02C78ECA11C5CF&profile=pass
+
+#EXTINF:-1 tvg-id="hbohd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO HD
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/324664091
+#EXTINF:-1 tvg-id="hbohd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO SD
+#https://hthanhmedia.000webhostapp.com/VTVCab/hbo.php
+#EXTINF:-1 tvg-id="hbohd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://i.imgur.com/lqF1OZe.jpg" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO 
+#https://hthanhmedia.000webhostapp.com/VTVCab/hbo2.php
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://www.marketing91.com/wp-content/uploads/2016/10/Cinemax.jpg" tvg-id="4f111dfd5d20693834e26db24c64b63a",CINEMAX HD
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1873299662
+
+#EXTINF:-1 tvg-id="redbyhbohd" group-title="꧁⚽️HThanh⚽️꧂" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Red-Thumb.png",Red By HBO HD
+#http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/610310286
+
+#EXTINF:-1  tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png" group-title="꧁⚽️HThanh⚽️꧂", Skynet Sport HD
+#http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
