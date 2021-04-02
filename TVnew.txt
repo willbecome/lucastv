@@ -26,7 +26,7 @@ https://rlink.vn/bearlivetv_sctv8
 
 
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="SCTV", SCTV9 HD - Digital
-#http://14.187.197.27:8080/live/sctv9/index.m3u8?token=pJp9bwxIrAp6ZPN5Fp-YGg&e=1617260823
+#http://171.248.36.125:8080/live/sctv9/index.m3u8?token=pJp9bwxIrAp6ZPN5Fp-YGg&e=1617260823
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 HD - Digital01
 http://cdn5.thanden.cf/live/jMH3OmQTxtYM031oBc7qBQ/1617287761/sctv9.m3u8
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 HD - Digital02
