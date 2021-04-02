@@ -74,7 +74,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_w8358766
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/chunklist_w1935737310_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - K+#
 #EXTINF:0 tvg-id="kplus1hd"group-title="K+" tvg-logo="https://i.ibb.co/ZBdBfjR/K-1-BEARTV.png" ,K+1 HD
-http://trialsonserver.ddns.net:9981/stream/channelid/1020751378?auth=PYHAerZPIS61AxDYcK6EQRjhaTkU&profile=pass
+http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/1245435055?ticket=BE8325C8E820E5C2272E6731E157683BC213369B&profile=pass
 #EXTINF:-1 tvg-id="kplusnshd" group-title="K+" tvg-logo="https://i.ibb.co/Tvv27bn/K-NS-HD-BEARTV.png" ,K+NS HD
 http://trialsonserver.ddns.net:9981/stream/channelid/353254431?auth=PYHAerZPIS61AxDYcK6EQRjhaTkU&profile=pass
 https://live.quangkv.com/vieon/kns.m3u8
