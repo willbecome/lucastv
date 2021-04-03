@@ -122,7 +122,7 @@ https://rlink.vn/bearlivetv_sctv8
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/zXMQIBq.jpg" group-title="SCTV", SCTV9 HD - Digital
 http://116.108.18.56:8080/live/sctv9/1617370667428.jpg?token=zzITi6PiLsV9f3NwNYTHpQ&e=1617380610
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 HD - Digital01
-http://116.108.18.51:8080/live/sctv9/1617414969649.jpg?token=-QSBlnObkbSx3YIAsfw4zw&e=1617424282
+http://cdn3.thanden.cf/live/fitjiQ9paxploR798FN_qw/1617422576/sctv9.m3u8
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 HD - Digital02
 http://cdn3.thanden.cf/live/3kyS64p1mOI2LXd-HG4dLg/1617351820/sctv9.m3u8
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 HD - Digital03
@@ -130,7 +130,7 @@ http://cdn3.thanden.cf/live/XoO3mTDTstsDYv56FjO6xg/1617351860/sctv9.m3u8
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 HD - Digital04
 http://cdn3.thanden.cf/live/FnXwfxMx-J6e8bnuHwqcAQ/1617288010/sctv9.m3u8
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 HD - Digital05
-#http://14.187.197.27:8080/live/sctv9/index.m3u8?token=pJp9bwxIrAp6ZPN5Fp-YGg&e=1617260823
+http://cdn3.thanden.cf/live/fitjiQ9paxploR798FN_qw/1617422576/sctv9.m3u8
 
 
 
