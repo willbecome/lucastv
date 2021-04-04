@@ -7,40 +7,40 @@
 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV Leak#
-#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png" group-title="SCTV-HThanh", SCTV1 HD
+#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png" group-title="SCTV Leak", SCTV1 HD
 http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/1037552223?ticket=8FF59617CE5101A241CDCE8C070798AE0192557A&profile=pass
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV-HThanh" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2 HD
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV Leak" tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2 HD
 #https://vtsstr3.tv24.vn/elive/_definst_/smil:sctv2_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV-HThanh" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV Leak" tvg-logo="https://i.postimg.cc/m21s8tYf/sctv3hd.png",SCTV3 HD
 #https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTVHDThieunhi_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/840158737?ticket=2BBBB6F0D0362E3BFDF44018461F15F0FC4A351D&profile=pass
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV-HThanh" tvg-logo="https://i.postimg.cc/NF5ch0ZX/sctv4hd.png",SCTV4 HD
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV Leak" tvg-logo="https://i.postimg.cc/NF5ch0ZX/sctv4hd.png",SCTV4 HD
 #https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_GiaiTri_new1.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/1358239525?ticket=BB77242300CBBF0FAC98DF94903F6372BCE7841F&profile=pass
 
 
-#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV-HThanh" tvg-logo="https://i.postimg.cc/HxLG5xYN/sctv5.png",SCTV5 HD
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV Leak" tvg-logo="https://i.postimg.cc/HxLG5xYN/sctv5.png",SCTV5 HD
 #https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV5_HD_new1.smil/chunklist_w1179357146_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
 
 
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV-HThanh" tvg-logo="https://i.postimg.cc/W1MPcCY5/sctv6hd.png",SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV Leak" tvg-logo="https://i.postimg.cc/W1MPcCY5/sctv6hd.png",SCTV6 HD
 #https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV6HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/956867193?ticket=BF35E90F7F16F2529355DDAFDA3CB71AA893EB7F&profile=pass
 
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV-HThanh" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV Leak" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
 #https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_SanKhau_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/1929795009?ticket=DF012AC2EA23129D76E4CA86BB49A5EA507648D7&profile=pass
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV-HThanh" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV Leak" tvg-logo="https://i.postimg.cc/3w15dpTp/sctv7hd.png",SCTV7 HD
 #https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV_HD_SanKhau.smil/chunklist_w77415307_b2692000.m3u8
 
 
-#EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://i.postimg.cc/5yZDZSBc/sctv8hd.png" group-title="SCTV-HThanh", SCTV8 HD
+#EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://i.postimg.cc/5yZDZSBc/sctv8hd.png" group-title="SCTV Leak", SCTV8 HD
 #https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV8_SD_new1.smil/chunklist_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
-#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV-HThanh", SCTV9 HD
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV Leak", SCTV9 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36"
 #https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/736486352?ticket=E379847329C230763FF4B005E2B659F002F56DE5&profile=pass
