@@ -45,6 +45,26 @@ http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/192979
 #https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/736486352?ticket=E379847329C230763FF4B005E2B659F002F56DE5&profile=pass
 
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV Leak", SCTV9 HD
+http://171.232.185.7:8080/live/sctv9/index.m3u8?token=BrGNr3ZH7noZLJUx9yRtNA&e=1617657528
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV Leak", SCTV9 HD
+http://cdn1.thanden.cf/live/A4n_w5lhaqjxTTdQqZaV6w/1617654895/sctv9.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV Leak", SCTV9 HD
+http://cdn5.thanden.cf/live/SeuZHaPVyGzLvGHG4uQRaw/1617654928/sctv9.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV Leak", SCTV9 HD
+http://cdn4.thanden.cf/live/yoE1AeIw5WoH693yh0zhxg/1617654925/sctv9.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV Leak", SCTV9 HD
+http://cdn2.thanden.cf/live/UNaXZdnPhkUUee46ahoJBw/1617654933/sctv9.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV Leak" tvg-logo="https://i.postimg.cc/SKyHFsMK/sctv11hd.png",SCTV11 HD
 #https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVVHNT_HD_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/2105863036?ticket=92FCBD138BC435E752A10185A2A1A2F796E54D44&profile=pass
