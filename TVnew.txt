@@ -46,7 +46,7 @@ http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/192979
 http://hthanhmedia:share123@vips-hthanh.duckdns.org:9981/stream/channelid/736486352?ticket=E379847329C230763FF4B005E2B659F002F56DE5&profile=pass
 
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV Leak", SCTV9 HD
-http://171.232.185.7:8080/live/sctv9/index.m3u8?token=BrGNr3ZH7noZLJUx9yRtNA&e=1617657528
+http://171.232.185.49:8080/live/sctv9/index.m3u8?token=jU--gOFNf3lTlXpcq6aGLg&e=1617658708
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV Leak", SCTV9 HD
 http://cdn1.thanden.cf/live/A4n_w5lhaqjxTTdQqZaV6w/1617654895/sctv9.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.postimg.cc/wjYS2FxL/sctv9hd.png" group-title="SCTV Leak", SCTV9 HD
