@@ -38,7 +38,7 @@ http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV8.m3u8
 #EXTINF:0 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.imgur.com/SMW1DEk.png",SCTV9 HD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://chungxda.github.io/m3u8/TV24/SCTV/SCTV9HD.m3u8
+http://cdn1.thanden.cf/live/vCustHML4u_q7kZuO4TWKA/1618485541/sctv9.m3u8
 #EXTINF:0 tvg-id="sctv10" group-title="SCTV" tvg-logo="https://imgur.com/HwMUDwy.png",SCTV10 - VTV Hyundai Homeshopping 
 #EXTVLCOPT:http-user-agent=vietngatv
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV10.m3u8
