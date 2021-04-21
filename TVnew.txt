@@ -19,12 +19,12 @@
 
 
 #EXTINF:-1,K+1 HD (DRM)
-http://116.87.198.52:40103
-http://1.52.243.130:4022/udp/225.1.1.6:30120
+https://broker.00005555.cc/tcp/116.87.198.52:40103
+
 #EXTINF:-1,K+PM HD (DRM)
-http://1.52.243.130:4022/udp/225.1.1.73:30120
+
 #EXTINF:-1,K+PC HD (DRM)
-http://1.52.243.130:4022/udp/225.1.1.77:30120
+
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV #
 #EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2 SD
 #EXTVLCOPT:http-user-agent=vietngatv
