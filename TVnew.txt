@@ -725,7 +725,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="nhk_world" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 roup-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png",ABC Australia
+#EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png",ABC Australia
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://seeklogo.com/images/T/tv5-logo-D6C5E4DA52-seeklogo.com.png",TV5 Monde Asie
