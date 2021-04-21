@@ -18,14 +18,18 @@
 #http://hthanhmedia:freecongdong@ht-sporttv.duckdns.org:9981/stream/channelid/1918773025
 
 
-#EXTINF:-1,K+1 HD (DRM)
-https://broker.00005555.cc/tcp/116.87.198.52:40103
+#EXTINF:0 tvg-id="kplus1hd"group-title="K+" tvg-logo="https://i.ibb.co/ZBdBfjR/K-1-BEARTV.png" ,K+1 HD
+http://111.67.193.191:80/23.237.64.98:4131
+#EXTINF:-1 tvg-id="kplusnshd" group-title="K+" tvg-logo="https://i.ibb.co/Tvv27bn/K-NS-HD-BEARTV.png" ,K+NS HD
 
-#EXTINF:-1,K+PM HD (DRM)
+#EXTINF:-1 tvg-id="kpluspmhd" group-title="K+" tvg-logo="https://i.ibb.co/q02m7Xv/K-PM-HD-BEARTV.png" ,K+PM HD
 
-#EXTINF:-1,K+PC HD (DRM)
-
+#EXTINF:-1 tvg-id="kpluspchd" group-title="K+" tvg-logo="https://i.ibb.co/9bWKmN8/K-PC-HD-BEARTV.png",K+PC HD
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV #
+#EXTINF:0 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.imgur.com/SMW1DEk.png",SCTV9 HD
+http://cdn1.thanden.cf/live/lu48INw34jrtXbB6CzGZkg/1619027205/sctv9.m3u8
+#EXTINF:0 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.imgur.com/SMW1DEk.png",SCTV9 HD
+http://116.108.22.144:8080/live/sctv9/index.m3u8?token=L3ixBzz3FYTGbf40ElJFxA&e=1619030229
 #EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2 SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net:443/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
