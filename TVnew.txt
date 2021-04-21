@@ -227,6 +227,90 @@ https://live-vthn.vieon.vn/vtc/live/hd_vtc16/TV_HD/hd_vtc16_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC HD (1080p)" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/VTC_Digital.webp",Thông Tin Dịch Vụ Của VTC
 #EXTVLCOPT:http-user-agent=vietngatv
 http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="Vie Giải Trí HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/dcc8q5s6_vie_giai_tri.png" group-title="VTVCab",VTVCab1 FHD Vie Giải Trí HD
+https://live-vthn.vieon.vn:443/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtvcab10hd" tvg-name="Vie Dramas HD" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/19kuj0j5_vie_dramas.png" group-title="VTVCab",VTVCab10 FHD Vie Dramas HD
+https://live-vthn.vieon.vn:443/vtvcab/live/hd_vtvcab_10/TV_HD/hd_vtvcab_10_1080p/chunks.m3u8
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVCab1 HD
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD.smil/chunklist_w1434921760_b2692000.m3u8
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTVcab2 HD - Phim Việt
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8
+https://hthanhmedia.000webhostapp.com/VTVCab/cab2.php
+
+#EXTINF:-1 group-title="VTVCab"  tvg-logo="https://i.postimg.cc/KvdV0ffx/vtvcab3-thethao.png",VTVCab3 SD 
+https://hthanhmedia.000webhostapp.com/VTVCab/cab3.php
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/phpKbpOAa_5d429d8e79e56.jpg",VTVcab4 HD
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD_new1.smil/chunklist_w1434921760_b2692000.m3u8
+#http://14.185.28.162:2806/rtp/232.84.2.190:10924
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/100.png",VTVcab5 HD - E Channel HD
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD_new1.smil/chunklist_w1979543838_b2692000.m3u8
+https://hthanhmedia.000webhostapp.com/VTVCab/cab5.php
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/101.png",VTVcab6 HD - HAYTV
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab6_SD_new1.smil/chunklist_w1979543838_b2692000.m3u8
+#http://14.185.28.162:2806/rtp/232.84.1.220:9294
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/phpKbpOAa_5d429d8e79e56.jpg",VTVcab7 HD
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab7_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8
+#http://14.185.28.162:2806/rtp/232.84.1.26:8130
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/102.png",VTVcab8 HD - BiBi
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab8_SD_new1.smil/chunklist_w819578077_b2692000.m3u8
+https://hthanhmedia.000webhostapp.com/VTVCab/cab8.php
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/195.png",VTVcab9 HD - InfoTV
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab9_SD_new1.smil/chunklist_w1434921760_b2692000.m3u8
+#http://14.185.28.162:2806/rtp/232.84.2.191:10930
+
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/phpKbpOAa_5d429d8e79e56.jpg",VTVcab10 HD - Vie DRAMAS
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD_new1.smil/chunklist_w1979543838_b2692000.m3u8
+https://hthanhmedia.000webhostapp.com/VTVCab/cab10.php
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/103.png",VTVcab12 HD - Style 
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD_new1.smil/chunklist_w2017891009_b2692000.m3u8
+#http://14.185.28.162:2806/rtp/232.84.1.244:9438
+
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/phpKbpOAa_5d429d8e79e56.jpg",VTVcab15 HD - M Channel
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD_new1.smil/playlist.m3u8
+#http://14.185.28.162:2806/rtp/232.84.2.192:10936
+
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/phpjWRupK_5d429dd81b83f.png",VTVCab16 HD - BDTV_SD
+#https://vtsstr1.tv24.vn:443/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w913268349_b2692000.m3u8
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/104.png",VTVcab17 HD - Yeah1!TV
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD.smil/chunklist_w1434921760_b2692000.m3u8
+#http://14.185.28.162:2806/rtp/232.84.1.217:9276
+
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/99.png",VTVcab19 HD - Film TV
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8
+#http://14.185.28.162:2806/rtp/232.84.1.169:8988
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/132.png",VTVcab20 HD
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD_new1.smil/chunklist_w387386695_b2692000.m3u8
+#http://14.185.28.162:2806/rtp/232.84.1.245:10344
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTV (1080p)#
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV (1080p)" tvg-logo="https://i.ibb.co/HVm4hSt/vtv1logobyvovanloc.png",VTV1 | 1080P
