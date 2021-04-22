@@ -29,7 +29,7 @@ http://111.67.193.191:80/23.237.64.98:4131
 #EXTINF:0 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.imgur.com/SMW1DEk.png",SCTV9 HD
 http://cdn6.thanden.cf/live/Drri3_e3kvxp3LHXoZJZrA/1619057333/sctv9.m3u8
 #EXTINF:0 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.imgur.com/SMW1DEk.png",SCTV9 HD
-http://14.187.223.43:8080/live/sctv9/index.m3u8?token=iIquzcn7sLwFW3yis8sYaQ&e=1619060061
+http://116.108.22.144:8080/live/sctv9/index.m3u8?token=fA6miSEJeDVNyRg_gG5yPg&e=1619065159
 #EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2 SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net:443/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
