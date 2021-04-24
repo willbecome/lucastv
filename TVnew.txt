@@ -27,7 +27,7 @@ http://111.67.193.191:80/23.237.64.98:4131
 #EXTINF:-1 tvg-id="kpluspchd" group-title="K+" tvg-logo="https://i.ibb.co/9bWKmN8/K-PC-HD-BEARTV.png",K+PC HD
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV #
 #EXTINF:0 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.imgur.com/SMW1DEk.png",SCTV9 HD
-http://cdn6.thanden.cf/live/Drri3_e3kvxp3LHXoZJZrA/1619057333/sctv9.m3u8
+http://116.108.35.41:8080/live/sctv9/index.m3u8?token=fsiyvVWmRXU7dNhyLIUxRA&e=1619234691
 #EXTINF:0 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.imgur.com/SMW1DEk.png",SCTV9 HD
 http://116.108.22.144:8080/live/sctv9/index.m3u8?token=fA6miSEJeDVNyRg_gG5yPg&e=1619065159
 #EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2 SD
