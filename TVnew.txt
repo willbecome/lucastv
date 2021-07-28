@@ -12,6 +12,14 @@ http://s4live.tv1asia.com:21585/kplus2/index.m3u8
 http://s4live.tv1asia.com:21585/kns2/index.m3u8
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="http://vthanh.live/ic/98.png", K+PC HD
 http://s4live.tv1asia.com:21585/kpc2/index.m3u8
+#EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+1-hd.png",K+1 HD
+
+https://video-weaver.hkg01.hls.ttvnw.net/v1/playlist/Cp4FhUiTo0ggEl1VFx1nVM7nP2NUcpa02XAABJLAA2Aw9FTebJdPRtDloZQnI0XJtwn__ldFAs6buDLdSGyG45dgt_e7JFEb7FsFfDTMNA5CCaeUEeGc2LiYiZ5JN1l0UOo2GnEW-4qRqyZ9vX6fhQexL8RWMhk5wYt_23T3Qaa-FkpDsGp-L9Oo-VoT3c0lR60HFkkwBmmuKbwxka_p1s8Y0IAhYu5f7umhSBuQzu0CJOULNrgnZmwlXBFevwZfmpXLzKp_kNHJW68-bCuaLaLlfqdyNxeYReaKgId7sUuFbw1ZoCybyiOWkr8zFBkc9bqLW1-K1_f0Ec2Bc_Z-RMdxophn2e_cFHlDtNbCSmeGwTDepGgQ7qFmzskwAAV0PXkeZ_drujNFUphOlJZHmQdOeHIsdb_CStbt42E4aVQmmauo8F_UTzFaSlciSDayNzmr2wmD51Uq0dCuY6ZLSgLS7fUBhcC56eQ5yV9e6n8fd91FZdDBkeS9iqk_t8nKuqSMetGh9u4MK8upXzdEVwe6RS5eQFtbgXL_ZuHQoiA5r82JYhTzrJoA-5Qs4PXu6TJ9hur0ng-sZZDybcsQEv3TByf_q6J7BJalXF8lWITiYFiIB46hYgmW3zNkGuS7J0tqId8CMm3MHL4LKFUNW9v8VVUHc1yN6BjdXCYO87KOSfnv3Z4EF6ywun9alyKQqE_pvsh8O8INZRev1I5q2FiPH-vLY6gDL4vdZGG-a2eIGRzWqHgfkqvcZIfjvyoZnA6FpdckQ-bxz2A5hA8ZGUr2BrULR4EHQFgVlMM_ikw82iY-yJuky81-vd3n2oNtrSqQyrxJjo5DmfNeUa121DTARO5qPMiJJlWPvFD6VDNhGT27SsJnh9cQ-WY9dHSIIhIQUt0vXND2TRkVjY-4WKIiRxoMz59XhaMH3ezBlgvS.m3u8
+
+
+#EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+pc-hd.png",K+PM |
+
+https://video-weaver.hkg01.hls.ttvnw.net/v1/playlist/Cu8FRWf-f3T2Ac9_DKM1RypI3jr-GJzAPR5czkfVaCDTo9Wj54tTFqewmwbYEOTq_Ns0E1qON-aQ1h8FeejP2WPNDbmYVipiUya-LXNlWg9ld9QNRMjvJ5J-1rt4Gsy_dyWiL3q-sJGb0VJyxZVax7Pgug2Ti79jHBFgZEStTCvDp8ehyLNW-2EX_pLxgh9f59Jrws2iUphI5W2wTqeZICgWepJ9AG9VBPvERf6CLVCMJF9WAQC_8nyJaM80yUyzgP7gJlIPcPYIw5iVvlQvN3bHWAaDm1I7j_ySO94VXqN3HW0AhAgaroA_lJexhpr5RH3llta_bHePaS71EAcdNMgxtFSgzXc9IFZeulyLb5Nog9_qF1P6I2DloJ6hh7i9kbY8kgJbUUFWHvFF8KO5f8R1I549GWdL8eiOxs7XYkuMHEAsckQBGSP_wPmZipzhRHg-ajFYk2FNzIxKwFgKAtX5qSmBa5fH2fifEn8ZerUt-m4XuJSjTrGo5ga6u_xa6v20DEcaulGVg6bgbKi1ydaQug7J5lZhE9zXwKDuSTxihyoTyDhPP4uARhcgtWwIOtv5YHlC-ZhMk5F_N4rLR_I4lJPdJUcIoerZQZrXrY5da8YngHADBRSCKBVlANRI9HuUJzIDQKX0tGKeyXIprboL3YFBVrP05P4ZvdmpkbnBldPhZn9ti_sBb8Bq55-3pDLnJftW8YDPgWxC301HZ6zs8VkslEvYZZhSs6LYWI-Lc5Y7U6wizI2wIgcYGYdL92ryB08e5cDTo9nS8BdNDHozs6AATCuS3KufYnudaZhGvmCOIk8pKvAcyOd6UHejx9ATWLxdrFRkpbYuAo46JzAIu69NAHcbS2eJm5nte0cCXHQVXXvbuQoP0p6KH6TUquDpcrMW5kqset3Rs8VKsHwV3Hi3mm-An1iL6ZXijsEfboC9Zah0QWG1OkILkpwY2_4KJ5J9lG7WB5oEdGE9kUOPvcAqBQPYyIl6apb3dOidfxIQIw2W6cLpo2k5i5N3OSRT5xoMcI-AHPZWF2-Z7kGn.m3u8
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - SCTV #
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🍜| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/SCTV1-0.png/revision/latest/scale-to-width-down/200?cb=20201119113949&path-prefix=vi", SCTV1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
