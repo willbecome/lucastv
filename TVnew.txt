@@ -153,7 +153,7 @@ http://112.197.12.54/hls/sctv7/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/74.png", SCTV8 HD
 http://112.197.12.54/hls/sctv8/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/75.png", SCTV9 HD
-http://112.197.12.54/hls/sctv9/sd1/index.m3u8
+http://sv.tvmienphi.tv/75e9a57e-1d49-445f-968f-e4231608cb62
 #EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="http://vthanh.live/ic/76.png", SCTV10
 http://112.197.12.54/hls/sctv10/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/77.png", SCTV11 HD
