@@ -416,22 +416,22 @@ https://vietanhtv.xyz/tv24.php?id=sctv
 #EXTVLCOPT:http-user-agent=VietAnhTV
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist_w1946511555_b1692000.m3u8
 
-#EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://vanhiptv.tk/vovtv.png", VOV TV HD
+#EXTINF:-1 tvg-id="vovtvhd" group-title="tuyên truyền pắc pó" tvg-logo="https://vanhiptv.tk/vovtv.png", VOV TV HD
 #EXTVLCOPT:http-user-agent=VietAnhTV
 https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="quochoi" group-title="Thiết Yếu" tvg-logo="https://vanhiptv.tk/quochoi.png", Quốc Hội HD
+#EXTINF:-1 tvg-id="quochoi" group-title="tuyên truyền pắc pó" tvg-logo="https://vanhiptv.tk/quochoi.png", Quốc Hội HD
 #EXTVLCOPT:http-user-agent=VietAnhTV
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết Yếu" tvg-logo="https://vanhiptv.tk/qpvn.png", QPVN HD
+#EXTINF:-1 tvg-id="qpvnhd" group-title="tuyên truyền pắc pó" tvg-logo="https://vanhiptv.tk/qpvn.png", QPVN HD
 #EXTVLCOPT:http-user-agent=VietAnhTV
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="Thiết Yếu" tvg-logo="https://vanhiptv.tk/antv.png", ANTV HD
+#EXTINF:-1 tvg-id="antvhd" group-title="tuyên truyền pắc pó" tvg-logo="https://vanhiptv.tk/antv.png", ANTV HD
 #EXTVLCOPT:http-user-agent=VietAnhTV
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết Yếu" tvg-logo="https://vanhiptv.tk/ttxvn.png", TTXVN HD
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="tuyên truyền pắc pó" tvg-logo="https://vanhiptv.tk/ttxvn.png", TTXVN HD
 #EXTVLCOPT:http-user-agent=VietAnhTV
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="nhandanhd" group-title="Thiết Yếu" tvg-logo="https://vanhiptv.tk/nhandantv.png", Nhân Dân HD
+#EXTINF:-1 tvg-id="nhandanhd" group-title="tuyên truyền pắc pó" tvg-logo="https://vanhiptv.tk/nhandantv.png", Nhân Dân HD
 #EXTVLCOPT:http-user-agent=VietAnhTV
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 
