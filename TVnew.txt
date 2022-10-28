@@ -1,5 +1,135 @@
-#EXTM3U url-tvg="https://vietanhtv.xyz/epg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/willbecome/lucastv/main/lichphatsong.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #EXTM3U LucasTV
+
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv1.png", SCTV1 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv1
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv2.png", SCTV2 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv2
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv3.png", SCTV3 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv3
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv4.png", SCTV4 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv4
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv5.png", SCTV5 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv5
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv6.png", SCTV6 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv6
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv7.png", SCTV7 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv7
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv8.png", SCTV8 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv9.png", SCTV9 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv9
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv10.png", SCTV10 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv10
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv11.png", SCTV11 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv11
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv12.png", SCTV12 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sct://vietanhtv.xyz/tv24.php?id=sctv12
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv13.png", SCTV13 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv13
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv14.png", SCTV14 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv14
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv15.png", SCTV15 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv15
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv16.png", SCTV16 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv16
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv17.png", SCTV17 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv17
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv18.png", SCTV18 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv18
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv19.png", SCTV19 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv19
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv20.png", SCTV20 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv20
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv21.png", SCTV21 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv21
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv22.png", SCTV22 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv22
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctvpth.png", SCTV HD Phim Tổng Hợp (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vietanhtv.xyz/tv24.php?id=sctv
+#EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/btv5.png", BTV5 HD (TV24)
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist_w1946511555_b1692000.m3u8
+
+
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htv1.png ", HTV1
+#EXTVLCOPT:http-user-agent=VietAnhTV
+http://vietanhtv.xyz/htv.php?type=tivi&id=2631
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htv2.png ", HTV2 HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htv3.png ", HTV3
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/chunks.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvkey.png ", HTV Key
+#EXTVLCOPT:http-user-agent=VietAnhTV
+http://vietanhtv.xyz/htv.php?type=tivi&id=2528
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htv7.png ", HTV7 HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htv9.png ", HTV9 HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvtt.png ", HTV Thể Thao HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvcoophd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvco.op.png ", HTV Co.op HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcthuanviethd.png ", HTVC Thuần Việt HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcthuanviet.png ", HTVC Thuần Việt 
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcplus.png", HTVC Plus HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcdulich.png ", HTVC Du Lịch HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvccanhac.png ", HTVC Ca Nhạc HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcphim.png ", HTVC Phim HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcgiadinh.png ", HTVC Gia Đình HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcphunu.png ", HTVC Phụ Nữ HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcshopping" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcshopping.png ", HTVC Shopping
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcfbnc.png ", HTVC FBNC HD
+#EXTVLCOPT:http-user-agent=VietAnhTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 
 #K+
 #EXTINF:-1 group-title="K+" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/568?cb=20211011130239&path-prefix=vi",K+ KIDS HD
@@ -106,60 +236,7 @@ http://vietanhtv.xyz/vtvgo.php?id=7
 http://vietanhtv.xyz/vtvgo.php?id=163
 
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htv1.png ", HTV1
-#EXTVLCOPT:http-user-agent=VietAnhTV
-http://vietanhtv.xyz/htv.php?type=tivi&id=2631
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htv2.png ", HTV2 HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htv3.png ", HTV3
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvkey.png ", HTV Key
-#EXTVLCOPT:http-user-agent=VietAnhTV
-http://vietanhtv.xyz/htv.php?type=tivi&id=2528
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htv7.png ", HTV7 HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htv9.png ", HTV9 HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvtt.png ", HTV Thể Thao HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvcoophd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvco.op.png ", HTV Co.op HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcthuanviethd.png ", HTVC Thuần Việt HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcthuanviet.png ", HTVC Thuần Việt 
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcplus.png", HTVC Plus HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcdulich.png ", HTVC Du Lịch HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvccanhac.png ", HTVC Ca Nhạc HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcphim.png ", HTVC Phim HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcgiadinh.png ", HTVC Gia Đình HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcphunu.png ", HTVC Phụ Nữ HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcshopping" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcshopping.png ", HTVC Shopping
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/htv/htvcfbnc.png ", HTVC FBNC HD
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/aXGzD6a.jpeg" tvg-chno="10" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTC1 HD
@@ -343,78 +420,7 @@ https://vietanhtv.xyz/vipvieon.php?id=vtvcab23
 
 
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv1.png", SCTV1 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv1
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv2.png", SCTV2 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv2
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv3.png", SCTV3 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv3
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv4.png", SCTV4 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv4
-#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv5.png", SCTV5 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv5
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv6.png", SCTV6 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv6
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv7.png", SCTV7 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv7
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv8.png", SCTV8 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv9.png", SCTV9 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv9
-#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv10.png", SCTV10 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv10
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv11.png", SCTV11 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv11
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv12.png", SCTV12 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sct://vietanhtv.xyz/tv24.php?id=sctv12
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv13.png", SCTV13 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv13
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv14.png", SCTV14 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv14
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv15.png", SCTV15 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv15
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv16.png", SCTV16 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv16
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv17.png", SCTV17 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv17
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv18.png", SCTV18 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv18
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv19.png", SCTV19 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv19
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv20.png", SCTV20 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv20
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv21.png", SCTV21 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv21
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv22.png", SCTV22 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv22
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctvpth.png", SCTV HD Phim Tổng Hợp (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vietanhtv.xyz/tv24.php?id=sctv
-#EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/btv5.png", BTV5 HD (TV24)
-#EXTVLCOPT:http-user-agent=VietAnhTV
-https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist_w1946511555_b1692000.m3u8
+
 
 #EXTINF:-1 tvg-id="vovtvhd" group-title="tuyên truyền pắc pó" tvg-logo="https://vanhiptv.tk/vovtv.png", VOV TV HD
 #EXTVLCOPT:http-user-agent=VietAnhTV
