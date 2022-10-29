@@ -62,8 +62,8 @@ https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:0 tvg-id="vtc2" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/Jmpt24j/VTC2-cc.webp",VTC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #https://dl.dropboxusercontent.com/s/7j2fpfd19kf3iyx/																						 ㅤ
-#https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8?cc
-https://vips-livecdn.fptplay.net/hda1/vtc2_vhls.smil/chunklist_b5000000.m3u8?cc
+https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8?cc
+#https://vips-livecdn.fptplay.net/hda1/vtc2_vhls.smil/chunklist_b5000000.m3u8?cc
 
 #EXTINF:0 tvg-id="vtc3hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/yXPCVtL/VTC3-cc.webp",VTC3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -139,8 +139,9 @@ https://vips-livecdn.fptplay.net/hda1/vtcnow_vhls.smil/chunklist_b5000000.m3u8?c
 
 #EXTINF:0 tvg-id="htv1" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/XkLGs0C/HTV1-cc.webp",HTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8?cc
+#https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8?cc
 #https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV1-SD-ABR/HTV-ABR/HTV1-SD-720p/chunks.m3u8?cc
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8?cc
 
 #EXTINF:0 tvg-id="htv2hd" group-title="3️⃣| HTV"tvg-logo="https://i.ibb.co/q99PxTH/cchtv2.webp",HTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
