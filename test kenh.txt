@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/coocaaE" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-#EXTM3U CoocaaTV - List miễn phí phục vụ cộng đồng. Vui lòng không copy!
+#EXTM3U CoocaaTV - List miễn phí phục vụ cộng đồng. Vui lòng copy thì ghi nguồn!
 #---------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -28,7 +28,7 @@ http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8?cc
 
 																					 ㅤ
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/PtJKgHX/vtvcantho.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV.CT
+#EXTINF:-1 tvg-id="vtv6hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/PtJKgHX/vtvcantho.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8?cc
 #https://dl.dropboxusercontent.com/s/0mdi9d3mk1movxm/																						 ㅤ
@@ -36,8 +36,8 @@ http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8?cc
 #EXTINF:-1 tvg-id="vtv7hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8?cc
-
 #https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8?cc
+
 #EXTINF:-1 tvg-id="vtv8hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/RyBxx0F/VTV8-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8?cc
@@ -45,8 +45,11 @@ http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8?cc
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/HVRdGVT/VTV9-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8?cc
+http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8?cc
 #https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8?cc
+
+
+
 
 #EXTINF:0 tvg-id="vtc1hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/2S7N7Ns/VTC1-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTC1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
