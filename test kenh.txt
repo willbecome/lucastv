@@ -760,11 +760,18 @@ https://dl.dropboxusercontent.com/s/tayodhae1s15xlh/																						 ㅤ
 https://dl.dropboxusercontent.com/s/fw9imvn31ossqor/																						 ㅤ
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s2/index.m3u8?cc|Referer=http://sctvonline.vn/
+
+
+
 #EXTINF:-1 tvg-id="sctv9hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/x6dMJWH/SCTV9-cc.webp",SCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/zmsldkw4tbesq5f/																						 ㅤ
+#https://dl.dropboxusercontent.com/s/zmsldkw4tbesq5f/																						 ㅤ
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s2/index.m3u8?cc|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s2/index.m3u8?cc|Referer=http://sctvonline.vn/
+
+
+
+
 #EXTINF:-1 tvg-id="sctv10hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/9tKmzD5/SCTV10-cc.webp",SCTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dl.dropboxusercontent.com/s/khf555gqekjwa14/																						 ㅤ
