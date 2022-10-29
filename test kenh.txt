@@ -141,7 +141,7 @@ https://vips-livecdn.fptplay.net/hda1/vtcnow_vhls.smil/chunklist_b5000000.m3u8?c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8?cc
 #https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV1-SD-ABR/HTV-ABR/HTV1-SD-720p/chunks.m3u8?cc
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8?cc
+https://drm-livecdn.hplus.com.vn/CDN-FPT01/HTV1-HD-1080p/playlist.m3u8?cc
 
 #EXTINF:0 tvg-id="htv2hd" group-title="3️⃣| HTV"tvg-logo="https://i.ibb.co/q99PxTH/cchtv2.webp",HTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
