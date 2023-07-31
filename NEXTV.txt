@@ -11,6 +11,9 @@
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HDz
+http://live-vnp.vthanhtivi.pw:18001/SCTV1/index.m3u8
+
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
@@ -40,10 +43,13 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD Dự phòng
-http://sg.tinchuanchuaanh.com:8080/SCTV9/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD Dự phòng 01
+#http://sg.tinchuanchuaanh.com:8080/SCTV9/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD Dự phòng 02
+http://live-vnp.vthanhtivi.pw:18001/SCTV9/index.m3u8
 
 #EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
