@@ -5,24 +5,36 @@
 
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/95.png", K+CINE HD
-#http://vietanhtv.duckdns.org/video/tb.mp4
-
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/96.png", K+LIFE HD
-#http://vietanhtv.duckdns.org/video/tb.mp4
-
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/97.png", K+SPORT1 HD
-#http://vietanhtv.duckdns.org/video/hhh.mp4
-
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/98.png", K+SPORT2 HD
-#http://vietanhtv.duckdns.org/video/hhh.mp4
-
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/188.png", K+KIDS HD
-#http://vietanhtv.duckdns.org/video/alo.mp4
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZaNkaZeilMKZoKWWl6SlkZ5qXmJnag==&time=1693826531&mykplus&id=kcine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZaNkaZeilMKZoKWWl6SlkZ5qXmJnag==&time=1693826531&mykplus&id=klife
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZaNkaZeilMKZoKWWl6SlkZ5qXmJnag==&time=1693826531&mykplus&id=ksport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZaNkaZeilMKZoKWWl6SlkZ5qXmJnag==&time=1693826531&mykplus&id=ksport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZaNkaZeilMKZoKWWl6SlkZ5qXmJnag==&time=1693826531&mykplus&id=kkids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 
 #---SCTV---#
