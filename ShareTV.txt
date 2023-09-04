@@ -4,13 +4,13 @@
 
 #EXTINF:-1 tvg-id="cctv1" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV1 HD
 #http://103.112.191.9:880/LAOSAT1057.m3u8
-http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
+#http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 #EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png", CCTV 5
-http://103.112.191.9:880/LAOSAT1001.m3u8
+#http://103.112.191.9:880/LAOSAT1001.m3u8
 #EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png", CCTV 5+
-http://103.112.191.9:880/LAOSAT1006.m3u8
+#http://103.112.191.9:880/LAOSAT1006.m3u8
 #EXTINF:-1 tvg-id="cctv13" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 HD
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png", RTHK 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 #-*--VTV-*--#
