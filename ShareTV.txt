@@ -299,20 +299,20 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZaNkaZeilMKZoKWWl6SlkZ5qXmJnag==&time=1693826531&mykplus&id=kkids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
-#-*--Thiết yếu-*--#
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/f8545e62-e83e-42e3-a5db-c6c28b0410c1/catchup/480p1p6/480p1p6.m3u8?media=true&start=${start}&stop=${end}", ANTV HD
+#-*--Tin chính phủ--*--#
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Tin chính phủ" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/f8545e62-e83e-42e3-a5db-c6c28b0410c1/catchup/480p1p6/480p1p6.m3u8?media=true&start=${start}&stop=${end}", ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/8d2284ad-9069-49c0-87c7-204239402b9e/catchup/480p1p6/480p1p6.m3u8?media=true&start=${start}&stop=${end}", VNews
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Tin chính phủ" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/8d2284ad-9069-49c0-87c7-204239402b9e/catchup/480p1p6/480p1p6.m3u8?media=true&start=${start}&stop=${end}", VNews
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vnews-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
+#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Tin chính phủ" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/nhan-dan-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/2ec6b129-9efe-462c-be85-70933db7500a/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", Quốc Hội HD
+#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Tin chính phủ" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/2ec6b129-9efe-462c-be85-70933db7500a/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", Quốc Hội HD
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/95c7326c-e52a-4485-8414-6ec06c3f48f3/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", QPVN HD
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Tin chính phủ" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/95c7326c-e52a-4485-8414-6ec06c3f48f3/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}", QPVN HD
 http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
+#EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Tin chính phủ" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #-*--Hanoicab-*--#
