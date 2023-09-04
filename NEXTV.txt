@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/willbecome/lucastv/main/epg.xml"
+#EXTM3U url-tvg="https://drive.google.com/file/d/1o37wAFGG4-K9qGXWdjwMT41bjKSVC80t/view?usp=sharing"
 #LucasTV
 #https://playlist.vthanhtivi.pw/
 
