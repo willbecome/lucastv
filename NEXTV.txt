@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/willbecome/lucastv/main/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
-#EXTM3U LucasTV
+#EXTM3U url-tvg="https://raw.githubusercontent.com/willbecome/lucastv/main/epg.xml"
+# LucasTV
 #https://playlist.vthanhtivi.pw/
 
 
