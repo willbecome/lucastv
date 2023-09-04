@@ -71,17 +71,17 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD Dự phòng 01
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9
 http://live-vnp.vthanhtivi.pw:18001/SCTV9/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 
 #http://27.75.235.215:8080/sctv/s9/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv9/1692154613192.ts?token=3u2vTz99-Xo_ap4E5xY2hA&e=1692164609
 
-#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD Test
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9
 http://27.75.235.215:8080/sctv/s9/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv9/index.m3u8?token=t-30S7DhuCTra0NJX4nV4Q&e=1692164648
 
 #EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
