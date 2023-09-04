@@ -35,7 +35,10 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZaNkaZeilMKZoKWWl6SlkZ5qXmJnag==&time=1693826531&mykplus&id=kkids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd
-
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://i.ibb.co/NtdjSxT/k-sport1-hd-BEARTV.png", K+ SPORT 1
+http://gg.gg/16889r
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.ibb.co/G9s2Vpr/k-sport2-hd-BEARTV.png", K+ SPORT 2
+http://gg.gg/16889z
 
 #---SCTV---#
 
