@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://trada.info/epg.xml"
+#LucasTV
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv1.png" group-title="XemTV", (VTV1) This m3u file is come from giangnam0201. Please do not reup. - VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv2.png" group-title="XemTV",VTV2
