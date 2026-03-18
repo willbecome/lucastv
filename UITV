@@ -287,6 +287,12 @@ https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/8_efcc1082.jpg", SCTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
+
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/9_efcc1082.jpg", SCTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://160.191.243.68/sctv9/ts
+
+
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/10_dd39c053.jpg", SCTV10
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/11_18513b6b.jpg", SCTV11
